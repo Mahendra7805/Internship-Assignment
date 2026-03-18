@@ -1,0 +1,18 @@
+Insight 1:
+Extreme Fear days में traders का PnL mostly negative होता है, जिससे high risk दिखाई देता है
+Insight 2:
+Greed phase में trading activity (number of trades) बढ़ जाती है
+Insight 3:
+Frequent traders, infrequent traders की तुलना में ज्यादा consistent performance दिखाते हैं¶
+
+
+#Data cleaned and merged on date.
+#Key metrics like PnL, win rate, and trade size were calculated.
+#Analysis was performed to compare trader behavior across sentiment phases.
+
+#Extreme Fear days show more negative PnL indicating higher risk.
+#Trading activity increases during Greed phases.
+#Frequent traders show more consistent performance.
+
+#Reduce position size during Extreme Fear to manage risk.
+#Increase trading activity during Greed for experienced traders.
